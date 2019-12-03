@@ -1,0 +1,33 @@
+/* some simple layouts, no scss 
+
+.chart text {
+  fill: white;
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+*/
+.bar {
+	 fill: steelblue;
+}
+
+.bar:hover {
+   fill: yellow;
+}
+
+text {
+  font-family: arial;
+}
+
+buttonText {
+  font-family: arial;
+}
+
+label {
+  font-size: 13px;
+  fill: black;
+}
+
+body {
+  padding-right: 10px;
+  padding-left: 10px;
+}
